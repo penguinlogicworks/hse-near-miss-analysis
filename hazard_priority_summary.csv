@@ -1,0 +1,9 @@
+Hazard_Category,Frequency,Average_Severity,Priority_Score,Priority_Rank
+Vehicle Movement,3,4.33,13.0,1
+Machine Guarding,2,4.5,9.0,2
+Dropped Object,2,4.0,8.0,3
+Electrical,2,4.0,8.0,3
+Manual Handling,3,2.0,6.0,4
+Slip Trip Fall,3,2.0,6.0,4
+Chemical Exposure,1,3.0,3.0,5
+Ergonomic,2,1.0,2.0,6

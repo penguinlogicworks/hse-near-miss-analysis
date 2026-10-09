@@ -1,0 +1,19 @@
+Date,Area,Hazard_Category,Event_Type,Severity,Potential_Consequence
+2026-01-05,Workshop,Manual Handling,Near Miss,2,Musculoskeletal Injury
+2026-01-12,Warehouse,Slip Trip Fall,Near Miss,2,Minor Injury
+2026-01-19,Loading Bay,Vehicle Movement,Near Miss,4,Serious Injury
+2026-02-02,Workshop,Electrical,Near Miss,4,Electric Shock
+2026-02-11,Warehouse,Manual Handling,Near Miss,2,Musculoskeletal Injury
+2026-02-18,Loading Bay,Dropped Object,Near Miss,4,Head Injury
+2026-03-03,Office,Ergonomic,Near Miss,1,Discomfort
+2026-03-14,Workshop,Machine Guarding,Near Miss,4,Crush Injury
+2026-03-21,Warehouse,Slip Trip Fall,Near Miss,2,Minor Injury
+2026-04-04,Loading Bay,Vehicle Movement,Near Miss,5,Fatal Injury
+2026-04-17,Workshop,Chemical Exposure,Near Miss,3,Respiratory Irritation
+2026-04-25,Warehouse,Dropped Object,Near Miss,4,Head Injury
+2026-05-06,Office,Ergonomic,Near Miss,1,Discomfort
+2026-05-18,Workshop,Electrical,Near Miss,4,Electric Shock
+2026-05-27,Loading Bay,Manual Handling,Near Miss,2,Musculoskeletal Injury
+2026-06-09,Warehouse,Slip Trip Fall,Near Miss,2,Minor Injury
+2026-06-16,Workshop,Machine Guarding,Near Miss,5,Fatal Injury
+2026-06-28,Loading Bay,Vehicle Movement,Near Miss,4,Serious Injury
